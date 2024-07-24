@@ -50,3 +50,4 @@ class CreateEmpAccTable extends Migration
         Schema::dropIfExists('sessions');
     }
 };
+
